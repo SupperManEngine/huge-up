@@ -1,4 +1,4 @@
-local Rayfield = loadstring(game:HttpGet('https://[Log in to view URL]'))()
+local Rayfield = loadstring(game:HttpGet('https://sirus.menu/rayfield'))()
 
 local Window = Rayfield:CreateWindow({
    Name = "SlapBattlesSolo",
